@@ -1,3 +1,6 @@
+# Notes from the Archivist 
+Hey, Jaiden here, just want to note that this repo is an earlier copy/playground version of [Electrum,](https://github.com/FyraLabs-Graveyard/electrum) another abandoned piece of the lineage of Kiri. Everything below this point is original, but this note felt important.
+
 # Electrum
 
 A Wayland-only Window Compositing and Window Management solution.
